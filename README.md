@@ -5,4 +5,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyee1114&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Skyee1114)  
