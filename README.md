@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm a Software engineer, ML & AI scientist
+#### I'm a Full stack Software engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyee1114)](https://github.com/anuraghazra/github-readme-stats)
 
